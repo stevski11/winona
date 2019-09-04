@@ -2,4 +2,4 @@
 ___
 ![alt text](https://www.exploreminnesota.com/memberimage.ashx?id=11200&width=800&mar=1 "Winona")
 
-[look at this river](stevski11.github.io/winona/rivers)
+[look at this river](stevski11.github.io/winona/river)
